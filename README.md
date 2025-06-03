@@ -1,11 +1,11 @@
-# 🧠 Interview Prep Repository
+# Interview Prep Repository
 
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-### 🟦 Arrays & Hashing
+### Arrays & Hashing
 - Contains Duplicate  
 - Valid Anagram  
 - Two Sum  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🟦 Two Pointers
+### Two Pointers
 - Valid Palindrome  
 - Two Sum II (Input Array Is Sorted)  
 - 3Sum  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🟦 Sliding Window
+### Sliding Window
 - Best Time to Buy and Sell Stock  
 - Longest Substring Without Repeating Characters  
 - Longest Repeating Character Replacement  
@@ -37,7 +37,7 @@
 
 ---
 
-### 🟦 Stack
+### Stack
 - Valid Parentheses  
 - Min Stack  
 - Evaluate Reverse Polish Notation  
@@ -48,7 +48,7 @@
 
 ---
 
-### 🟦 Binary Search
+### Binary Search
 - Binary Search  
 - Search a 2D Matrix  
 - Koko Eating Bananas  
@@ -59,7 +59,7 @@
 
 ---
 
-### 🟦 Linked List
+### Linked List
 - Reverse Linked List  
 - Merge Two Sorted Lists  
 - Linked List Cycle  
@@ -74,7 +74,7 @@
 
 ---
 
-### 🟦 Trees
+### Trees
 - Invert Binary Tree  
 - Maximum Depth of Binary Tree  
 - Diameter of Binary Tree  
@@ -93,7 +93,7 @@
 
 ---
 
-### 🟦 Heap / Priority Queue
+### Heap / Priority Queue
 - Kth Largest Element in a Stream  
 - Last Stone Weight  
 - K Closest Points to Origin  
@@ -104,7 +104,7 @@
 
 ---
 
-### 🟦 Backtracking
+### Backtracking
 - Subsets  
 - Combination Sum  
 - Combination Sum II  
@@ -117,14 +117,14 @@
 
 ---
 
-### 🟦 Tries
+### Tries
 - Implement Trie (Prefix Tree)  
 - Design Add and Search Words  
 - Word Search II  
 
 ---
 
-### 🟦 Graphs
+### Graphs
 - Number of Islands  
 - Max Area of Island  
 - Clone Graph  
@@ -141,7 +141,7 @@
 
 ---
 
-### 🟦 Advanced Graphs
+### Advanced Graphs
 - Network Delay Time  
 - Reconstruct Itinerary  
 - Min Cost to Connect All Points  
@@ -151,7 +151,7 @@
 
 ---
 
-### 🟦 1-D Dynamic Programming
+### 1-D Dynamic Programming
 - Climbing Stairs  
 - Min Cost Climbing Stairs  
 - House Robber  
@@ -167,7 +167,7 @@
 
 ---
 
-### 🟦 2-D Dynamic Programming
+### 2-D Dynamic Programming
 - Unique Paths  
 - Longest Common Subsequence  
 - Best Time to Buy and Sell Stock with Cooldown  
@@ -182,7 +182,7 @@
 
 ---
 
-### 🟦 Greedy
+### Greedy
 - Maximum Subarray  
 - Jump Game  
 - Jump Game II  
@@ -194,7 +194,7 @@
 
 ---
 
-### 🟦 Intervals
+### Intervals
 - Insert Interval  
 - Merge Intervals  
 - Non Overlapping Intervals  
@@ -204,7 +204,7 @@
 
 ---
 
-### 🟦 Math & Geometry
+### Math & Geometry
 - Rotate Image  
 - Spiral Matrix  
 - Set Matrix Zeroes  
@@ -216,7 +216,7 @@
 
 ---
 
-### 🟦 Bit Manipulation
+### Bit Manipulation
 - Single Number  
 - Number of 1 Bits  
 - Counting Bits  
